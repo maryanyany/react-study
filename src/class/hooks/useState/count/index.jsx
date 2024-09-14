@@ -11,7 +11,7 @@ function handleCount(){
 
         <div>
             <p>Você clicou {count} vezes</p>
-            <button onClick={() => setCount(count+1)}>Click Aqui</button>
+            <button onClick={handleCount}>Click Aqui</button>
         </div>
     )
 }
