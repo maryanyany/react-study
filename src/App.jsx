@@ -1,9 +1,10 @@
-import Accordion from "./class/hooks/useState/accordion";
+//import Accordion from "./class/hooks/useState/accordion";
+import Exemple from "./class/hooks/useEfect/exemple";
 
 export default function App(){
   return(
     // <div className="app-container"> 
-      <Accordion/>
+      <Exemple/>
     // </div>
 
   )
