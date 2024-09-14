@@ -1,10 +1,10 @@
 //import Accordion from "./class/hooks/useState/accordion";
-import Exemple from "./class/hooks/useEfect/exemple";
+import CountEffect from "./class/hooks/useHooks/countEfect"
 
 export default function App(){
   return(
     // <div className="app-container"> 
-      <Exemple/>
+      <CountEffect/>
     // </div>
 
   )
